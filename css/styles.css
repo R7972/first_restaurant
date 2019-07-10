@@ -65,12 +65,27 @@ body {
     height: auto;
     border-radius: 22px;
 }
-#photo_link {
+
+
+
+
+
+
+
+/* #photo_link {
     display: flex;
     width: 100%;
     height: auto;
 }
-.photo_link {
+#menu_link {
     padding: 5px 5px 5px 5px;
     border-radius: 20px;
 }
+.photo3 {
+    border-radius: 20px;
+
+}
+
+.photo_link {
+    padding: 5px 15px 5px 15px;
+} */
