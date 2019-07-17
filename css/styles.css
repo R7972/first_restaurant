@@ -65,27 +65,21 @@ body {
     height: auto;
     border-radius: 22px;
 }
-
-
-
-
-
-
-
-/* #photo_link {
-    display: flex;
+#photo_link {
+    display: flex; }
+.menu3 {
     width: 100%;
-    height: auto;
 }
-#menu_link {
-    padding: 5px 5px 5px 5px;
-    border-radius: 20px;
-}
-.photo3 {
-    border-radius: 20px;
-
-}
-
 .photo_link {
-    padding: 5px 15px 5px 15px;
-} */
+    position: relative;
+    width: 33.333%;
+}
+#img_menu {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100%;
+}
+
+
