@@ -78,13 +78,18 @@ body {
     height: auto;
     border-radius: 6px;
     text-transform: uppercase;
-    /*font*/
+}
+
+#photo_link > div:hover {
+    box-shadow: 3px 3px 7px grey;
+    border: 2px solid green;
 }
 
 .photo_link {
     position: relative;
     width: 33.333%;
     margin: 20px;
+    border-radius: 6px;
 }
 
 .photo_link #map {
@@ -106,4 +111,17 @@ body {
     background-color: #363636;
 }
 
+#footer .footer_title {
+    font-size: 2em;
+}
 
+#footer #delivery_area {
+    font-size: 0.7em;
+    color: green;
+    line-height: 16px;
+    margin-top: -5px;
+}
+
+#footer .review {
+    font-style: italic;
+}
