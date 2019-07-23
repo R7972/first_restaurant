@@ -106,9 +106,12 @@ body {
     width: 100%;
 }
 
+#footer_all {
+    background-color: #363636;
+}
+
 #footer {
     display: flex;
-    background-color: #363636;
 }
 
 #footer .footer_title {
@@ -124,4 +127,10 @@ body {
 
 #footer .review {
     font-style: italic;
+}
+
+#footer_last {
+    width: 100%;
+    text-align: center;
+    padding: 1em;
 }
