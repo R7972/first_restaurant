@@ -139,6 +139,39 @@ body {
 }
 
 /* 스페셜메뉴 ~ */
+#page_name {
+    font-size: 2.8em;
+    text-align: center;
+}
+#page_description {
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 2em;
+}
+.two_menu {
+    display: flex;
+    padding: 16px;
+}
+.one_menu {
+    position: relative;
+}
+.menu_no {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 5em;
+    text-align: center;
+    background-color: #557c3e;
+}
+
+.price {
+    display: flex;
+    float: right;
+}
+.price .price_size {
+    font-size: 0.6em;
+    padding: 0px 5px 0px 5px;
+}
 
 /* ~ 여기까지 알 */
 
