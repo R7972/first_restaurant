@@ -62,6 +62,7 @@ body {
     color: #557c3e;
 }
 
+/* 중앙 */
 #ShopPhotos {
     padding: 10px 5px 10px 5px;
     width: 100%;
@@ -106,6 +107,8 @@ body {
     width: 100%;
 }
 
+
+/* 하단 */
 #footer_all {
     background-color: #363636;
 }
@@ -134,3 +137,10 @@ body {
     text-align: center;
     padding: 1em;
 }
+
+/* 스페셜메뉴 */
+
+
+
+
+
