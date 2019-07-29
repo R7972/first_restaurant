@@ -134,3 +134,45 @@ body {
     text-align: center;
     padding: 1em;
 }
+<!---여기서부터 chlogh---->
+
+#menu_categories {
+    display: flex;
+}
+
+.cate_title {
+    text-align: center;
+}
+
+.cate_title #top {
+    font-size: 14px;
+}
+
+.cate_title #bottom {
+    font-size: 10px;
+}
+
+.menu_choose {
+    display: flex;
+}
+
+.menu_choose {
+    position: relative;
+    width: 25%;
+    margin: 30px;
+}
+
+.menu_4 {
+    width: 100%;
+    height: auto;
+    text-transform: uppercase;
+}
+
+.lunch {
+    font-size: 1.5em;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100%;
+}
