@@ -192,15 +192,18 @@ body {
     font-size: 10px;
 }
 
-.menu_choose {
-    display: flex;
-}
 
 .menu_choose {
     position: relative;
-    width: 25%;
+    flex-grow: 1;
     margin: 30px;
+    width: 100%;
 }
+
+.line {
+    display: flex;
+}
+
 
 .menu_4 {
     width: 100%;
